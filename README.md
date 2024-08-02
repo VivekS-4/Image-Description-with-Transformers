@@ -18,16 +18,12 @@ requests
 Installation
 Clone the repository and install the required dependencies:
 
-bash
-Copy code
-git clone https://github.com/yourusername/AI-Image-Captioning.git
+git clone https://github.com/VivekS-4/AI-Image-Captioning.git
 cd AI-Image-Captioning
 pip install -r requirements.txt
 Usage
 To run the image captioning, execute the following command:
 
-python
-Copy code
 python caption_image.py --image_path "<path_to_image>"
 Replace <path_to_image> with the actual path to the image you want to describe.
 
