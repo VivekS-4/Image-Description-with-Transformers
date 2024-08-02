@@ -1,0 +1,6 @@
+transformers==4.37.2
+bitsandbytes==0.41.3
+accelerate==0.25.0
+torch
+requests
+PIL  # PIL is not directly installable via pip, usually you'd use Pillow for modern installations
